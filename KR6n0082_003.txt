@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.010630
+#+DATE: 2015-08-30 20:57:57.953434
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1606
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6n0082_T_000-0694b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0082_T_003-0704c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《大乘阿毘達磨雜集論》卷第三¶
+《大乘阿毘達磨雜集論》卷第三¶
 ¶
 安慧菩薩糅¶
 大唐三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 本事分中三法品第一之三
-:END:
-¶
+本事分中三法品第一之三¶
 
 復次蘊界處廣分別云何嗢拕南曰。¶
 
@@ -430,8 +426,7 @@
 又唯去來今。是見聞覺知言說所依處故。¶
 
 云何善。幾是善。為何義故觀善耶。謂自性故¶
-相屬故隨逐故發起故第一義故生得故方¶
-便故現前供養故饒益故引攝故對治故寂靜¶
+相屬故隨逐故發起故第一義故生得故方便故現前供養故饒益故引攝故對治故寂靜¶
 故等流故。是善義。五蘊十界四處一分是善。
 <pb:KR6n0082_T_003-0709a>¶
 十界者。謂七識色聲法界。四處者。謂色聲意¶

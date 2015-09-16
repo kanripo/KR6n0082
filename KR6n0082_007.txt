@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.144196
+#+DATE: 2015-08-30 20:57:58.059833
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1606
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6n0082_T_000-0694b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0082_T_007-0724b> 
 #+PROPERTY: JUAN 7
 ¶
-
- 《大乘阿毘達磨雜集論》卷第七¶
+《大乘阿毘達磨雜集論》卷第七¶
 ¶
 安慧菩薩糅¶
 大唐三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 決擇分中諦品第一之二
-:END:
-¶
+決擇分中諦品第一之二¶
 
 隨煩惱者。謂所有諸煩惱皆是隨煩惱。有隨¶
 煩惱非煩惱。謂除煩惱所餘染污行蘊所攝¶
@@ -335,8 +331,7 @@
 身語意。煩惱者。謂貪瞋癡。如其所應或總¶
 或別。究竟者。由彼彼方便如是如是業道¶
 圓滿。或於爾時或於後時。於此義中殺生事¶
-者。謂有情數。意樂者。謂此想及必害意方¶
-便者。謂為害故如刀杖等。煩惱者。謂貪等。¶
+者。謂有情數。意樂者。謂此想及必害意方便者。謂為害故如刀杖等。煩惱者。謂貪等。¶
 究竟者。謂彼眾生由方便故。或無間死或¶
 後時死。不與取等事及究竟當廣分別。餘如¶
 理應思。不與取事者。謂他所攝若有情數非
