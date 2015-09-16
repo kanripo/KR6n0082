@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.240272
+#+DATE: 2015-08-30 20:57:58.887109
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1606
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6n0082_T_000-0694b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0082_T_010-0738c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《大乘阿毘達磨雜集論》卷第十¶
+《大乘阿毘達磨雜集論》卷第十¶
 ¶
 安慧菩薩糅¶
 大唐三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 決擇分中諦品第一之五
-:END:
-¶
+決擇分中諦品第一之五¶
 
 復次一切菩提分法無有差別。皆由五門而¶
 得建立。謂所緣故自體故助伴故修習故修¶

@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.401042
+#+DATE: 2015-08-30 20:57:59.043904
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1606
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6n0082_T_000-0694b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0082_T_015-0765b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《大乘阿毘達磨雜集論》卷第十五¶
+《大乘阿毘達磨雜集論》¶
 ¶
 安慧菩薩糅釋上集論¶
 大唐三藏法師玄奘奉　詔譯¶
 
-4論品
-:PROPERTIES:
-:head: 決擇分中論品第四之一
-:END:
-¶
+決擇分中論品第四之一¶
 
 云何論決擇。略說有七種。謂義決擇。釋決¶
 擇。分別顯示。決擇。等論決擇。攝決擇。論軌¶
