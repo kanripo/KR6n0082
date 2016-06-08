@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.039610
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:43
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
@@ -17,6 +17,7 @@
 安慧菩薩糅¶
 大唐三藏法師玄奘奉　詔譯¶
 
+*** 4
 :PROPERTIES:
 :head: 本事分中三法品第一之四
 :END:

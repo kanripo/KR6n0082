@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.336960
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:43
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
@@ -17,7 +17,8 @@
 安慧菩薩糅釋上集論¶
 大唐三藏法師玄奘奉　詔譯¶
 
-3得品
+** 3得品
+*** 1
 :PROPERTIES:
 :head: 決擇分中得品第三之一
 :END:
