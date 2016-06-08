@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.367639
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:43
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1606
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0082_T_000-0694b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0082_T_014-0759b> ¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
-
- 《大乘阿毘達磨雜集論》卷第十四¶
+《大乘阿毘達磨雜集論》¶
 ¶
 安慧菩薩糅釋上集論¶
 大唐三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 決擇分中得品第三之二
-:END:
-¶
+* 決擇分中得品第三之二¶
 
 復次無諍者。謂依止靜慮於防護他所應起¶
 煩惱住具足中。若定若慧及彼相應諸心心¶
@@ -624,5 +620,5 @@
 異此者諸利根種性補特伽羅應根唯一品。¶
 諸菩薩等根品差別應不可得。然有可得。是¶
 故利根復有差別。¶
-《大乘阿毘達磨雜集論》卷第十四¶
+《大乘阿毘達磨雜集論》¶
 

@@ -1,29 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.110014
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:43
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1606
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0082_T_000-0694b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0082_T_006-0719a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《大乘阿毘達磨雜集論》卷第六¶
+《大乘阿毘達磨雜集論》卷第六¶
 ¶
 安慧菩薩糅¶
 大唐三藏法師玄奘奉　詔譯¶
 
-2決擇分
-1諦品
-:PROPERTIES:
-:head: 決擇分中諦品第一之一
-:END:
-¶
+* 決擇分中諦品第一之一¶
 
 復次略說決擇有四種。謂諦決擇法決擇得¶
 決擇論議決擇。諦決擇復有四種。謂依苦集¶
@@ -335,9 +329,9 @@
 　次鉢羅奢佉
 　後髮毛爪等¶
 　及色根形相
-　漸漸而生長
+　漸漸而生長」
 #+END_VERSE
-」¶
+¶
 
 云何集諦。謂諸煩惱及煩惱增上所生諸業。¶
 俱說名集諦。由此集起生死苦故。煩惱增上¶

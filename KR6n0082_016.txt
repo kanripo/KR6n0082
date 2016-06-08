@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:53.429057
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:43
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1606
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0082_T_000-0694b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0082_T_016-0769b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《大乘阿毘達磨雜集論》卷第十六¶
+《大乘阿毘達磨雜集論》卷第十六¶
 ¶
 安慧菩薩糅釋上集論¶
 大唐三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 決擇分中論品第四之二
-:END:
-¶
+* 決擇分中論品第四之二¶
 
 實自性者。謂諸法實有性。假自性者。謂諸法¶
 假有性。世俗自性者。謂諸法世俗有性。勝義¶
@@ -375,9 +371,9 @@
 「　逆害於父母
 　王及二多聞¶
 　誅國及隨行
-　是人說清淨
+　是人說清淨」
 #+END_VERSE
-」¶
+¶
 
 今此頌中詮表世間共可極重罪惡文字。轉¶
 變密顯餘清淨義。何等世間共可極重罪惡。¶
@@ -404,9 +400,9 @@
 「　不信不知恩
 　斷密無容處¶
 　恒食人所吐
-　是最上丈夫
+　是最上丈夫」
 #+END_VERSE
-」¶
+¶
 
 今此頌中宣說世間極下劣義。所有文字轉¶
 變密顯餘最上義。世間下劣凡有四種。謂意¶
@@ -432,9 +428,9 @@
 「　覺不堅為堅
 　善住於顛倒¶
 　極煩惱所惱
-　得最上菩提
+　得最上菩提」
 #+END_VERSE
-」¶
+¶
 
 此如前說。然其體性。謂諸菩薩依三摩地。由¶
 見修二道證大菩提。¶

@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:52.974739
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:43
 #+TITLE: 大乘阿毘達磨雜集論
 #+PROPERTY: CBETA_ID T31n1606
 #+PROPERTY: ID KR6n0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1606
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0082_T_000-0694b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0082_T_002-0700a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大乘阿毘達磨雜集論》卷第二¶
+《大乘阿毘達磨雜集論》卷第二¶
 ¶
 安慧菩薩糅¶
 大唐三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 本事分中三法品第一之二
-:END:
-¶
+* 本事分中三法品第一之二¶
 
 何等名為心不相應行。謂得無想定滅盡定¶
 無想異熟命根眾同分生老住無常名身句身¶
